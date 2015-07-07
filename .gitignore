@@ -1,0 +1,10 @@
+.rspec
+/log
+/tmp
+/spec/tmp
+
+# VIM
+
+*.swp
+.backups
+**/.backups
